@@ -81,3 +81,5 @@ SELECT CONCAT(first_name,' ',last_name) AS full_name FROM employees;
 ROUND(): Round the salaries to the nearest thousand.
 
 SELECT ROUND(salary,2) AS rounded_salary FROM employees;
+
+**********/**********/**********/**********/**********/**********/**********/**********/**********/**********/
